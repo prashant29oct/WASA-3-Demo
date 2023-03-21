@@ -8,6 +8,6 @@ public class practice {
 	public void sample()
 	{
 		System.out.println("sample demo1");
-		System.out.println("sample demo2");
+		System.out.println("sample demo3S");
 	}
 }

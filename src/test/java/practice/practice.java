@@ -11,5 +11,6 @@ public class practice {
 		System.out.println("sample demo2");
 		System.out.println("sample demo3");
 		System.out.println("sample demo4");
+		System.out.println("sample demo5");
 	}
 }
